@@ -1,4 +1,4 @@
-# Compilados de mini jogos em C
+# Compilado de mini jogos em C
 #### Autor: Fábio Lucas Romeiro de Castro;
 #### Ano: 2018;
 **Propósito:** Jogos feitos para me introduzir e me familiarizar com a linguagem C e suas particularidades.
@@ -24,10 +24,10 @@
 4. Executar o jogo com `$ main.out`.
 
 #### TODO && bugs:
-#####TODO:
+**TODO**:
 - Guessing Game
 	- Desenvolver mensagem para perdedor;
 
-#####Bugs:
+**Bugs**:
 - Guessing Game
 	- Variáveis com valores inconsistentes após primeiro loop;

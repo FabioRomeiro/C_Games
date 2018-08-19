@@ -16,8 +16,8 @@
 - Stdlib.
 
 #### TODO && bugs:
-#####TODO:
+**TODO**:
 - Desenvolver mensagem para perdedor;
 
-#####Bugs:
+**Bugs**:
 - Variáveis com valores inconsistentes após primeiro loop;

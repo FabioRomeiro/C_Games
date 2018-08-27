@@ -13,7 +13,8 @@
 - Ctype;
 - Time;
 - Math;
-- Stdlib.
+- Stdlib;
+- String.
 
 #### Como compilar e executar (Com GCC):
 > Desenvolvido em uma máquina com Windows 10

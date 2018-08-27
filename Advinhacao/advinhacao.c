@@ -1,5 +1,5 @@
-#include "ui.c"
-#include "logica.c"
+#include "a_ui.c"
+#include "a_logica.c"
 #define LIFES 5
 
 void adivinhacao() {

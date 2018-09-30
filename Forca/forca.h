@@ -1,3 +1,6 @@
+#ifndef _FORCA_H_
+#define _FORCA_H_
+
 #define CHANCES 6
 
 void wellcome_msg_forca();
@@ -12,3 +15,4 @@ void proccess_letter_or_word(char guess, int* wrong_guesses);
 int check_if_won_or_lost(int wrong_guesses, int* win,int* lose);
 void forca_loser_message(char secretWord[20]);
 void forca_winner_message();
+#endif

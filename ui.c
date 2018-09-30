@@ -19,7 +19,7 @@ int summary_message() {
   printf("  Compilado de mini games em C - by Fábio Lucas Romeiro   \n");
   printf("----------------------------------------------------------\n");
   __break_lines(1);
-  printf("Escolha o jogo:\n (1) = Advinhacao\n (2) = Forca\n (-1) = Sair\n ");
+  printf("Escolha o jogo:\n (1) = Advinhacao\n (2) = Forca\n (3) = Pac Man\n (0) = Sair\n ");
   scanf("%d", &choise);
 
   return choise;
